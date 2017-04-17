@@ -10,6 +10,6 @@
 
 - Luego de pusheados los últimos cambios, sube el link del proyecto en el desafío de la sección correspondiente en la plataforma.
 
-*Hint: Las imágenes que necesitas utilizar las puedes descargar desde el siguiente [enlace](images/images_cv.tar.gz "titulo")*
+*Hint: Las imágenes que necesitas utilizar las puedes descargar desde el siguiente [enlace](https://github.com/DesafioLatam/E2CP2A1/tree/master/images)*
 
-![Layout](images/landing_latam.png "Layout Landing")
+![Layout](https://github.com/DesafioLatam/E2CP2A1/blob/master/images/landing_latam.png?raw=true)
